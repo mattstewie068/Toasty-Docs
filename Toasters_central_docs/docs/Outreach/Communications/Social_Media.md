@@ -1,0 +1,4 @@
+- Instagram
+- Chief Delphi
+- Discord
+- Youtube

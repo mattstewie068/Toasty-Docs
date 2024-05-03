@@ -1,0 +1,55 @@
+site_name: The Flying Toasters Central
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+    - content.action.edit
+    - content.action.view
+
+  language: en
+  palette:
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+      primary: light blue
+      accent: orange
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+      primary: light blue
+      accent: orange
+  logo: img/toaster_logo.png
+
+extra:
+  social:
+    - icon: material/outdoor-lamp
+      link: https://www.thebluealliance.com/team/3641
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/team3641/
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/FlyingToasters3641
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
