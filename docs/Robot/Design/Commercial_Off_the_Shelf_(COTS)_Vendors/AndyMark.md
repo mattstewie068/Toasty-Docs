@@ -1,1 +1,0 @@
-general robotics parts vender. sells robust components build to withstand rigorous competition over multiple seasons worth of gameplay.

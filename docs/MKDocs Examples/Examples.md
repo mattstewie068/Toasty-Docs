@@ -6,7 +6,7 @@
 
 ## Image
 
-![Image name](../../../../img/toaster_logo.png)
+<img src="/img/toaster_logo.png" width="400">
 
 ## Admonitions
 

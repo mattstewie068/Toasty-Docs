@@ -1,3 +1,4 @@
+# Team Structure
 
 Coaches --> Mentors --> Students
 
