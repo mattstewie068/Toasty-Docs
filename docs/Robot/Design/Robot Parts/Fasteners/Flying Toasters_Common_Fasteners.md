@@ -1,7 +1,5 @@
 # Commonly Used Fasteners
 
-<img src="/img/Toasty-Docs/docs/img/Fastener-Basics.png" width="400">
-
 ## Bolts
 
 ### Socket Head Cap Screws
