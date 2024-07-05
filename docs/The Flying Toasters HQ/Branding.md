@@ -1,6 +1,6 @@
 # Branding
 
-## Examples
+## Top Branding Examples
 
 [Team 254: The Cheesy Poofs](https://www.team254.com/resources/identity/)
 
@@ -10,24 +10,48 @@
 
 ## Team Colors
 
-### Primary
-- RGB: TBD
-- HEX: TBD
-### Secondary
-- RGB: TBD
-- HEX: TBD
-### Tertiary
-- RGB: TBD
-- HEX: TBD
+### Primary (Blue)
+- RGB: 0, 119, 181
+- HEX: #0077B5
+- CMYK: 100, 35, 0, 29
+- Pantone: 641
+
+### Secondary (Orange)
+- RGB: 229, 128, 28
+- HEX: #E5801C
+- CMYK: 0, 65, 100, 0
+- Pantone: 021
+
+### Tertiary (White)
+- RGB: 0, 0, 0
+- HEX: #000000
+- CMYK: 0, 0, 0, 0
+- Pantone: 001
 
 ## Team Font
 
-## Team Logo (Classic)
+Custom Font
+## Team Logo
 
-## Team Logo Full Color
+### Acceptable logo use
 
-## Team Logo Monochromatic
+### Team Classic Full Color Logo
+
+### Team Pride Logo
+
+### Team Logo Monochromatic
+
+Black on white
+
+Blue on white
+
+Orange on Blue
+
+### Team Logo History
+
+- 2011
+- 2012
+- 2013
+- 2014
 
 ## Google Slides Template
-
-## Acceptable logo use
