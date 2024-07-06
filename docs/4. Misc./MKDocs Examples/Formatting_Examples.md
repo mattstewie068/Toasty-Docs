@@ -12,6 +12,12 @@ This page shows examples of different text formatting options available within t
 
 ## Admonitions
 
+!!! quote
+    This is a quote.
+
+!!! example
+    This is an example.
+
 !!! note
     This is a note.
 
@@ -41,12 +47,6 @@ This page shows examples of different text formatting options available within t
 
 !!! bug
     This is a bug.
-
-!!! example
-    This is an example.
-
-!!! quote
-    This is a quote.
 
 ## Code Annotation Examples
 
@@ -93,9 +93,19 @@ def bubble_sort(items):
                 items[j], items[j + 1] = items[j + 1], items[j]
 ```
 
-#### Highlighting lines
+#### With highlighted lines
 
 ``` py hl_lines="2 3"
+def bubble_sort(items):
+    for i in range(len(items)):
+        for j in range(len(items) - 1 - i):
+            if items[j] > items[j + 1]:
+                items[j], items[j + 1] = items[j + 1], items[j]
+```
+
+#### With title, line numbers, and highlighting
+
+``` py title="bubble_sort.py" linenums="1" hl_lines="2 3"
 def bubble_sort(items):
     for i in range(len(items)):
         for j in range(len(items) - 1 - i):
