@@ -48,6 +48,8 @@ Custom Font
 
 ### Team Pride Logo
 
+TBD
+
 ### Team Logo Monochromatic
 
 Black on white
