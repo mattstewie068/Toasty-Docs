@@ -3,7 +3,7 @@
 !!! note
     This site is currently under construction.
 
-<img src="/img/toaster_logo.png" width="400">
+![alt text](toaster_logo.png)
 
 Welcome to The Flying Toasters documentation site.
 
