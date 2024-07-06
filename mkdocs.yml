@@ -29,7 +29,7 @@ theme:
         name: Switch to dark mode
       primary: light blue
       accent: orange
-  logo: img/toaster_logo.png
+  logo: toaster_logo.png
 
 extra:
   social:

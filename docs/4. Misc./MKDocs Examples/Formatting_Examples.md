@@ -1,4 +1,5 @@
 # Examples
+
 This page shows examples of different text formatting options available within the MKDocs framework.
 
 ## Hyperlink
@@ -7,7 +8,7 @@ This page shows examples of different text formatting options available within t
 
 ## Image
 
-<img src="/img/toaster_logo.png" width="400">
+![alt text](AI_MatLab_Toaster.png)
 
 ## Admonitions
 
