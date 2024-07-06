@@ -4,35 +4,35 @@
 !!! warning
     This page is a work in progress.
 
-The following are the CAD design guidelines for the Flying Toasters robots. These guidelines are used to ensure that the robot is designed in an organized, structured manner. If the guidelines are followed it will be much easier to design the robot and ensure that it is built correctly.
+The following are the CAD design guidelines for The Flying Toasters robots. These guidelines are used to ensure that the robot is designed in an organized, structured manner. If the guidelines are followed it will be much easier to design the robot and ensure that it is built correctly.
 
 ## Example Robot File Structure
 
 ```
-├── Main Assembly
-|   ├── Drivetrain Assembly
-|   |   ├── Drivetrain Main Assembly
-|   |   ├── Drivetrain Part Studios Folder
-|   |   |   ├── Drivetrain Part Studio 1
-|   |   |   ├── Drivetrain Part Studio 2
-|   |   |   ├── ...
-|   |   ├── Drivetrain Drawings Folder
-|   |   |   ├── Drivetrain Drawing 1
-|   |   |   ├── Drivetrain Drawing 2
-|   |   |   ├── ...
-|   |   ├── Drivetrain CAD Imports
-|   |   |   ├── CAD Import 1
-|   |   |   ├── CAD Import 2
-|   |   |   ├── ...
-|   ├── Intake Assembly
-|   ├── Climber Assembly
-|   ├── Launcher Assembly
-|   ├── Bumper Assembly
-|   ├── Sizing Box Folder
-|   |   ├── Frame Perimeter Sizing Box
-|   |   ├── Max Extension Sizing Box
-|   |   ├── ...
-|   ├── Electronics Folder
+Main Assembly/
+├── Drivetrain Assembly/
+│   ├── Drivetrain Main Assembly
+│   ├── Drivetrain Part Studios Folder/
+│   │   ├── Drivetrain Part Studio 1
+│   │   ├── Drivetrain Part Studio 2
+│   │   └── ...
+│   ├── Drivetrain Drawings Folder/
+│   │   ├── Drivetrain Drawing 1
+│   │   ├── Drivetrain Drawing 2
+│   │   └── ...
+│   └── Drivetrain CAD Imports/
+│       ├── CAD Import 1
+│       ├── CAD Import 2
+│       └── ...
+├── Intake Assembly
+├── Climber Assembly
+├── Launcher Assembly
+├── Bumper Assembly
+├── Sizing Box Folder/
+│   ├── Frame Perimeter Sizing Box
+│   ├── Max Extension Sizing Box
+│   └── ...
+└── Electronics Folder
 ```
 
 ## Part Naming Convention
@@ -44,12 +44,12 @@ TFT_DT_001_Descriptive_Name
 - 001 - Unique Part Number
 - Descriptive Name - A descriptive name for the part
 
-| Type | Toaster Nomenclature |
-| --- | --- |
-| Main Assembly | TFT Assembly_Name Main |
-| Sub Assemblies | TFT Sub Assemblies Name |
-| Part Studio | TFT_DT_001_Descriptive_Name |
-| Drawing | TFT_DT_001_Descriptive_Name Drawing # |
+| Type           | Toaster Nomenclature                  |
+| -------------- | ------------------------------------- |
+| Main Assembly  | TFT Assembly_Name Main                |
+| Sub Assemblies | TFT Sub Assemblies Name               |
+| Part Studio    | TFT_DT_001_Descriptive_Name           |
+| Drawing        | TFT_DT_001_Descriptive_Name Drawing # |
 
 
 

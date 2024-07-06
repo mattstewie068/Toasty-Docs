@@ -62,5 +62,5 @@ Common external retaining ring sizes are shown below.
 Sometimes it is necessary for us to use fasteners outside of the standard fasteners listed above.
 
 ### Carriage Bolts
-Used in the construction of the bumpers of the flying toasters robots.
+Used in the construction of the bumpers of The Flying Toasters robots.
 
