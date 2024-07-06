@@ -3,7 +3,6 @@
 ## Bolts
 
 ### Socket Head Cap Screws
-
 The table below shows the size of the standard socket head cap screws that are commonized by the Toasters. All fasteners are specified as black oxide coated.
 
 | Diameter | Thread/Inch | Length  |
@@ -34,10 +33,12 @@ The table below shows the size of the standard socket head cap screws that are c
 
 ### Shoulder Bolts
 
+| Diameter | Thread/Inch | Length  | Shoulder Length |
+| -------- | ----------- | ------- | --------------- |
+| ...      | ...         | ...     | ...             |
 
 
 ## Nuts
-
 The table below shows the standard nut sizes that are commonized by the Toasters. All nuts are Nylon insert locknuts for vibration resistance.
 
 | Thread Diameter | Thread/Inch | Thickness | Wrench Size |
@@ -46,10 +47,20 @@ The table below shows the standard nut sizes that are commonized by the Toasters
 | --------------- | ----------- | --------- | ----------- |
 | 1/4"            | 20          | 3/8"      | 7/16"       |
 
-## Specialized Fasteners
+## Retaining Rings
+Retaining rings, also known to as snap rings, are used to secure items on a shaft axially. They come in both external and internal versions. For our applications we primarily use external retaining rings.
 
+Common external retaining ring sizes are shown below.
+
+| Shaft diameter | Inside Diameter | Thickness  |
+| -------------- | --------------- | ---------- |
+| TBD            | TBD             | TBD        |
+
+<img src="/img/Fastener_Basics/External_Retaining_Rings.png" width="400">
+
+## Specialized Fasteners
 Sometimes it is necessary for us to use fasteners outside of the standard fasteners listed above.
 
-### Carrage Bolts
-
+### Carriage Bolts
 Used in the construction of the bumpers of the flying toasters robots.
+

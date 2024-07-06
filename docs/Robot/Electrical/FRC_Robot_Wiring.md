@@ -42,8 +42,6 @@ Specified using the American Wire Gauge standard.
 - - Used to wire all Kracken motors. it is also used to wire any high current draw motors that have long wire runs from the PDH.
 - 12AWG
 - - Used to wire all non-Kracken motors that are located close to the PDH.
-- 16AWG
-- - Used to wire
 
 !!! warning
     Robot frame is not to be used as a power path. The robot will be inspected before it can compete to ensure that there is no conductivity between either the positive or the negative terminal of the battery input wires to the PDH and various possible conductive locations around the robot.

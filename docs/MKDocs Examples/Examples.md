@@ -1,4 +1,5 @@
 # Examples
+This page shows examples of different text formatting options available within the MKDocs framework.
 
 ## Hyperlink
 
