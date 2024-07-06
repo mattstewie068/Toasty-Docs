@@ -1,5 +1,8 @@
 # Mission Statement
 
+!!! warning
+    This page is a work in progress.
+
 The Flying Toasters will...
 
 ## Examples

@@ -1,4 +1,7 @@
 # Team Goals
 
+!!! warning
+    This page is a work in progress.
+
 ## 2024 Team Goals
-Our team wants to be the best regardless of the consequences
+Play hard, Have Fun, Be Awesome!

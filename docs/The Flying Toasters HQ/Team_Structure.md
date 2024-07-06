@@ -1,5 +1,4 @@
 # Team Structure
 
-Coaches --> Mentors --> Students
-
-Coaches --> Mentor Group Lead --> Mentors --> Student Group Lead --> Students
+!!! warning
+    This page is a work in progress.
