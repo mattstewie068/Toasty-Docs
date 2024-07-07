@@ -3,7 +3,7 @@
 !!! note
     This site is currently under construction.
 
-![alt text](toaster_logo.png)
+![alt text]([toaster_logo.png](https://cdn5.vectorstock.com/i/1000x1000/50/59/kawaii-cute-angry-toaster-technology-vector-16825059.jpg))
 
 Welcome to The Flying Toasters documentation site.
 
