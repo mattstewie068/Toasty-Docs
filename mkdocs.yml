@@ -13,7 +13,6 @@ theme:
     - content.code.annotation
     - content.code.copy
     - content.action.edit
-    - content.action.view
 
   language: en
   palette:
@@ -53,3 +52,8 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.mark
   - attr_list
+
+repo_url: https://github.com/mattstewie068/Toasty-Docs
+repo_name: Toasty-Docs
+edit_uri: edit/main/docs/
+
