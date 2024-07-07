@@ -46,10 +46,6 @@ Custom Font
 
 ![alt text](../toaster_logo.png)
 
-### Team Pride Logo
-
-TBD
-
 ### Team Logo Monochromatic
 
 Black on white

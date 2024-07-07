@@ -1,8 +1,8 @@
 # Bolt Depot Fasteners Basics
 
-<img src="/img/Fastener_Basics/Fastener_Basics_1.png" width="800">
-<img src="/img/Fastener_Basics/Fastener_Basics_2.png" width="800">
-<img src="/img/Fastener_Basics/Type-Chart-1.png" width="800">
-<img src="/img/Fastener_Basics/Type-Chart-2.png" width="800">
-<img src="/img/Fastener_Basics/Type-Chart-3.png" width="800">
-<img src="/img/Fastener_Basics/Type-Chart-4.png" width="800">
+![alt text](<Fastener_Media/Fastener_Basics_1.png>)
+![alt text](<Fastener_Media/Fastener_Basics_2.png>)
+![alt text](<Fastener_Media/Type-Chart-1.png>)
+![alt text](<Fastener_Media/Type-Chart-2.png>)
+![alt text](<Fastener_Media/Type-Chart-3.png>)
+![alt text](<Fastener_Media/Type-Chart-4.png>)

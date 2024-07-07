@@ -58,7 +58,7 @@ Common external retaining ring sizes are shown below.
 | -------------- | --------------- | ---------- |
 | TBD            | TBD             | TBD        |
 
-![alt text](Media/Fastener_Media/External_Retaining_Rings.png)
+![alt text](Media/External_Retaining_Rings.png)
 
 ## Specialized Fasteners
 
